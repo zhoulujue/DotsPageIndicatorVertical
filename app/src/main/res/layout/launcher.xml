@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+
+        <android.support.wearable.view.GridViewPager
+            android:id="@+id/launcher_view_pager"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <com.michael.dotspageindicatorvertical.widget.DotsPageIndicatorVertical
+            android:id="@+id/launcher_page_indicator"
+            android:layout_marginEnd="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|end"
+            />
+
+    </FrameLayout>
+
+
+</android.support.wearable.view.BoxInsetLayout>

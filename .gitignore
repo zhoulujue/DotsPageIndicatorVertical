@@ -1,0 +1,68 @@
+/bin
+/keystore
+/local.properties
+/config.pyc
+.DS_Store
+*.apk
+/.settings/org.eclipse.core.resources.prefs
+/gen/*
+BuildConfig.java
+R.java
+alipay_lib/bin
+keystore
+AndroidBuildingTool/config.py
+AndroidBuildingTool/config.pyc
+alipay_lib/local.properties
+evernote_lib/bin
+application/build
+build
+.gradle
+.idea/
+
+*.iml
+
+# User-specific stuff:
+#.idea/workspace.xml
+#.idea/tasks.xml
+#.idea/dictionaries
+
+# Sensitive or high-churn files:
+#.idea/dataSources.ids
+#.idea/dataSources.xml
+#.idea/sqlDataSources.xml
+#.idea/dynamic.xml
+#.idea/uiDesigner.xml
+
+# Gradle:
+#.idea/gradle.xml
+#.idea/libraries
+
+# Mongo Explorer plugin:
+#.idea/mongoSettings.xml
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+xiachufang-android.iml
+#.idea/misc.xml
+#.idea/modules.xml
+application/application.iml
+modules/evernote_lib/evernote_lib.iml
+modules/slidingmenu/slidingmenu.iml
+modules/xcf_annotation_processor/xcf_annotation_processor.iml

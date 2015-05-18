@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="page1">page one</string>
+    <string name="page2">page two</string>
+    <string name="page3">page three</string>
+    <string name="page4">page four</string>
+    <string name="page5">page five</string>
+</resources>
