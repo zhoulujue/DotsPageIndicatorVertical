@@ -11,7 +11,7 @@ The DotsPageIndicatorVertical make it possible to indicate vertical scrolling pa
 		url  "http://dl.bintray.com/zhoulujue/maven"
 	}
 
-or include the jar file download from [my bintray repo's releases](https://bintray.com/artifact/download/zhoulujue/maven/dotspageindicatorvertical/verticaldotspageindicator/1.0.0/verticaldotspageindicator-1.0.0-sources.jar)
+or include the jar file downloaded from [my bintray repo's releases](https://bintray.com/artifact/download/zhoulujue/maven/dotspageindicatorvertical/verticaldotspageindicator/1.0.0/verticaldotspageindicator-1.0.0-sources.jar)
 
 ## How To Use
 
