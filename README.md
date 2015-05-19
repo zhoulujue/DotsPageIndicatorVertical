@@ -1,12 +1,11 @@
 # The vertical version of DotsPageIndicator
-DotsPageIndicator provides an animated array of dots indicating the active current page in horizontal direction *only*.
+The Android Wear built-in DotsPageIndicator provides an animated array of dots indicating the active current page in horizontal direction *only*.
 
 But a GirdView can be scrolled both vertically and horizontally.
 
-The DotsPageIndicatorVertical make it possible to indicating vertical scrolling pages.
+The DotsPageIndicatorVertical make it possible to indicate vertical scrolling pages.
 
-
-# Import In Android Studio
+## Import In Android Studio
 
 	repositories {
 		jCenter()
@@ -17,9 +16,9 @@ The DotsPageIndicatorVertical make it possible to indicating vertical scrolling 
 	}
 
 
-# How To Use
+## How To Use
 
-## Exactly the same as Android SDK's DotsPageIndicator
+### Exactly the same as Android SDK's DotsPageIndicator
 
 In XML, you can simply declare like this:
 
@@ -37,9 +36,7 @@ In XML, you can simply declare like this:
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
+    	> http://www.apache.org/licenses/LICENSE-2.0
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
