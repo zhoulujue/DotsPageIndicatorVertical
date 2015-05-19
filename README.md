@@ -5,11 +5,13 @@ But a GirdView can be scrolled both vertically and horizontally.
 
 The DotsPageIndicatorVertical make it possible to indicate vertical scrolling pages.
 
-## Import In Android Studio
+## Import In Android Studio using gradle
 
 	repositories {
 		url  "http://dl.bintray.com/zhoulujue/maven"
 	}
+
+or include the jar file download from [my bintray repo's releases](https://bintray.com/artifact/download/zhoulujue/maven/dotspageindicatorvertical/verticaldotspageindicator/1.0.0/verticaldotspageindicator-1.0.0-sources.jar)
 
 ## How To Use
 
