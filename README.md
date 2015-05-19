@@ -8,13 +8,8 @@ The DotsPageIndicatorVertical make it possible to indicate vertical scrolling pa
 ## Import In Android Studio
 
 	repositories {
-		jCenter()
+		url  "http://dl.bintray.com/zhoulujue/maven"
 	}
-
-	dependencies {
-		compile 'dotspageindicatorvertical:library:1.0.0'
-	}
-
 
 ## How To Use
 
