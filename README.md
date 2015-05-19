@@ -8,6 +8,10 @@ The DotsPageIndicatorVertical make it possible to indicating vertical scrolling 
 
 # Import In Android Studio
 
+	repositories {
+		jCenter()
+	}
+
 	dependencies {
 		compile 'dotspageindicatorvertical:library:1.0.0'
 	}
@@ -15,7 +19,7 @@ The DotsPageIndicatorVertical make it possible to indicating vertical scrolling 
 
 # How To Use
 
-## Exactly Same as Android SDK's DotsPageIndicator
+## Exactly the same as Android SDK's DotsPageIndicator
 
 In XML, you can simply declare like this:
 
